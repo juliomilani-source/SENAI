@@ -1,0 +1,3 @@
+while = enqaunto tal processo n acontecer faça tal mprocesso
+input = escreva
+contador = onde podemos colocar dados
