@@ -1,11 +1,2 @@
-# Ler o raio
-raio = float(input("Digite o raio da pizza: "))
-
-# Definir valor de pi
-pi = 3.14
-
-# Calcular área
-area = pi * (raio ** 2)
-
-# Mostrar resultado
-print(f"Área da pizza: {area:.2f}")
+raio = float(input("Qual o raio da pizza?(cm)"))
+print(f"A área da pizza é {3.14*(raio**2)}cm²")
