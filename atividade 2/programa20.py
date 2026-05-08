@@ -4,4 +4,4 @@ n3 = float(input("Digite o terceiro número: "))
 
 resultado = n1 * n2 * n3
 
-print("Resultado da multiplicação:", resultado)
+print("Resultado da multiplicação: ", resultado)
